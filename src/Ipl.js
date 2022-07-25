@@ -5,7 +5,7 @@ import { ArrowBackIos, ArrowForwardIos } from "@material-ui/icons";
 import { useRef } from "react";
 import { useEffect } from "react";
 import "./ipl.css";
-import { ButtonBase } from "@material-ui/core";
+import { ButtonBase } from "@material-ui/core"
 
 const Ipl = () => {
   const sliderRef = useRef(null);
